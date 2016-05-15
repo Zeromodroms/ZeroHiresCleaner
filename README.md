@@ -13,7 +13,7 @@ Actualizado beta 2.0.1a http://sh.st/PjnlW
 
 Cambios 
 
-Añadido instalador
-añadimos mas opciones a la seccion 4
-activacion nucleos
-mejoras de rendimiento visula
++ Añadido instalador
++ Añadimos mas opciones a la seccion 4
++ Activacion nucleos
++ Mejoras de rendimiento visula
