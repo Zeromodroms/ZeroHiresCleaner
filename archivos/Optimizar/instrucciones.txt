@@ -1,0 +1,5 @@
+1 .-Seleccione config avanzada del systema 
+2 .-Dirijase al apartado rendimiento 
+3 .-Precione el boton llamado configuracion
+4 .-Seleccione ajustar para mayor rendimiento 
+5.- Aplique los cambios
