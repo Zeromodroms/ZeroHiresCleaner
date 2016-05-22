@@ -11,9 +11,19 @@ enlace de descarga vercion anterior: http://sh.st/Pd4OI
 
 Actualizado beta 2.0.1a http://sh.st/PjnlW
 
+Actualizado V 2.1
+
 Cambios 
 
 + Añadido instalador
 + Añadimos mas opciones a la seccion 4
 + Activacion nucleos
 + Mejoras de rendimiento visula
+
+Cambios 21\05\2016
++Añadido mas opciones para windows 10
++Mejorado eliminacion de archivos temporales
++Menu mas organizado
++eliminacion de publicidad para cualquier windows y microsoft edge
++opcion de aumento de privacidad windows 10
++opcion lite windows 10
