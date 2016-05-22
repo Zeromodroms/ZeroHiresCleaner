@@ -22,9 +22,9 @@ Cambios
 
 Cambios 21\05\2016
 
-+Añadido mas opciones para windows 10
-+Mejorado eliminacion de archivos temporales
-+Menu mas organizado
-+eliminacion de publicidad para cualquier windows y microsoft edge
-+opcion de aumento de privacidad windows 10
-+opcion lite windows 10
++ Añadido mas opciones para windows 10
++ Mejorado eliminacion de archivos temporales
++ Menu mas organizado
++ Eliminacion de publicidad para cualquier windows y microsoft edge
++ Opcion de aumento de privacidad windows 10
++ Opcion lite windows 10
