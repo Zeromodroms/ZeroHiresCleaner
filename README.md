@@ -11,7 +11,7 @@ enlace de descarga vercion anterior: http://sh.st/Pd4OI
 
 Actualizado beta 2.0.1a http://sh.st/PjnlW
 
-Actualizado V 2.1
+Actualizado V 2.1 http://sh.st/PMsZa
 
 Cambios 
 
