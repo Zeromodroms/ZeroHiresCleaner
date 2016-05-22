@@ -1,0 +1,37 @@
+; Black Viper's Windows 10 Service Configuration
+; "Safe"
+PeerDistSvc
+NfsClnt
+dmwappushservice
+EntAppSvc
+lfsvc
+vmickvpexchange
+vmicguestinterface
+vmicshutdown
+vmicheartbeat
+vmicrdv
+vmictimesync
+vmicvmsession
+vmicvss
+SharedAccess
+MSiSCSI
+SmsRouter
+RpcLocator
+RetailDemo
+SensorDataService
+SensrSvc
+SensorService
+ScDeviceEnum
+SCPolicySvc
+SNMPTRAP
+WMPNetworkSvc
+icssvc
+WinRM
+XblAuthManager
+XblGameSave
+XboxNetApiSvc
+; Privacy and Shit script
+DiagTrack
+; Windows Privacy Tweaker
+DcpSvc
+WerSvc

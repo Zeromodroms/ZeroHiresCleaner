@@ -1,0 +1,17 @@
+; Black Viper's Windows 10 Service Configuration
+; "Tweaked"
+AJRouter
+ALG
+bthserv
+CertPropSvc
+TrkWks
+MapsBroker
+IEEtwCollectorService
+iphlpsvc
+diagnosticshub.standardcollector.service
+Netlogon
+CscService
+StorSvc
+TabletInputService
+WbioSrvc
+wcncsvc

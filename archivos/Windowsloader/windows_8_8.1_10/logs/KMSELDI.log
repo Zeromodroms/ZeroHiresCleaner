@@ -1,0 +1,68 @@
+22:25:20:085 Using host Local: 127.28.5.72:1688
+22:25:20:039 2016.04.04 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 7 Home Premium : HomePremium : 6.1 : 7601
+
+22:25:20:163 Time Start: 04/04/2016 10:25:14 p.m.
+22:25:20:195 Checking Internet Connection...
+22:25:20:569 Internet Connection Detected
+22:25:20:585 Synchronizing Time...
+22:25:20:798 Windows Detected: Windows 7 Home Premium : HomePremium : 6.1 : 7601
+22:25:20:799 Using host Local: 127.28.5.72:1688
+22:25:20:913 Opening Firewall Port...
+22:25:21:109 Opening Firewall App...
+22:25:21:374 KMSEmulator Port: 1688
+22:25:21:388 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+22:25:21:392 Get Registry : SYSTEM\CurrentControlSet\Services\osppsvc:Start
+22:25:21:429 Set Registry : SYSTEM\CurrentControlSet\Services\osppsvc:Start
+22:25:21:430 The Software Protection Service was Fixed, reboot your PC now and try again.
+22:25:21:457 KMSEmulator running port: 1688
+22:25:27:748 Office 2013 Skipped
+22:25:27:914 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\Office16\
+22:25:27:956 Office 2010 Skipped
+22:25:30:697 Found Windows Products: 1
+22:25:30:741 Name: Windows(R) 7, HomePremium edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: FJQKD
+
+22:25:30:755 Version Windows Skipped
+22:25:31:477 Found Office 2016 Products: 1
+22:25:31:485 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 5845
+LicenseStatus: 2
+PartialProductKey: WFG99
+
+22:25:31:648 DisableKeyManagementServiceHostCaching 0
+22:25:31:659 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+22:25:31:663 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+22:25:31:672 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+22:25:31:690 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+22:25:31:697 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+22:25:31:713 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+22:25:31:711 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+22:25:31:731 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+22:25:40:398 Activating Office 2016
+22:25:40:872 SetKeyManagementServiceMachine: 0: 127.28.5.72
+22:25:42:406 Connection accepted from [::ffff:127.0.0.1]:49222
+22:25:42:530 Received request: v4, AppID: 0ff1ce15-a989-479d-af46-f275c6370663, Machine: TeamZero-PC
+22:25:42:593 Sending response: v4, PID: 05426-00206-234-953139-03-3082-9200.0000-1142014
+22:25:42:621 Connection closed
+22:25:42:986 Office 16, Office16ProPlusVL_KMS_Client edition Activated 0
+22:25:43:046 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+22:25:43:055 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+22:25:43:061 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+22:25:43:064 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+22:25:43:065 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+22:25:43:073 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+22:25:43:075 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+22:25:43:076 Set Registry : OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+22:25:43:097 ClearKeyManagementServiceMachine 0
+22:25:43:111 ClearKeyManagementServicePort 0
+22:25:43:182 Closing Firewall Port...
+22:25:43:319 Closing Firewall App...
+22:25:43:452 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion

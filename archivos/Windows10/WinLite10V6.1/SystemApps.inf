@@ -1,0 +1,10 @@
+Microsoft.AAD.BrokerPlugin
+Microsoft.BioEnrollment
+Microsoft.LockApp
+Microsoft.Windows.AssignedAccessLockApp
+Microsoft.Windows.ContentDeliveryManager
+ParentalControls
+Microsoft.Windows.CloudExperienceHost
+ShellExperienceHost
+Microsoft.AccountsControl
+Microsoft.Windows.SecondaryTileExperience
