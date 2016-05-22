@@ -21,6 +21,7 @@ Cambios
 + Mejoras de rendimiento visula
 
 Cambios 21\05\2016
+
 +Añadido mas opciones para windows 10
 +Mejorado eliminacion de archivos temporales
 +Menu mas organizado
