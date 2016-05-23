@@ -1,4 +1,4 @@
-# ZeroHiresCleaner
+﻿# ZeroHiresCleaner
 Optimizador y limpiador para pc Freeware
 
 ##Este proyecto apenas comienza nos encontramos en beta aun
@@ -12,6 +12,8 @@ enlace de descarga vercion anterior: http://sh.st/Pd4OI
 Actualizado beta 2.0.1a http://sh.st/PjnlW
 
 Actualizado V 2.1 http://sh.st/PMsZa
+
+Actualizado V 2.1a http://sh.st/P7kl0
 
 Cambios 
 
@@ -28,3 +30,9 @@ Cambios 21\05\2016
 + Eliminacion de publicidad para cualquier windows y microsoft edge
 + Opcion de aumento de privacidad windows 10
 + Opcion lite windows 10
+
+Cambios 23/05/2016
++ Correccion a los errores que habian
++ Añadido icono a instalador
++ Añadido icono al .exe
++ Para evitar errores ejecute como administrador
